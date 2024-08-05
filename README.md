@@ -6,7 +6,7 @@ Sentiment Analysis and Recommender System based on Women E-commerce dataset from
 - DistilBERT
 - RoBERTa [highest accuracy]
 
-(2) custom models
+(2) Custom models
 - NN
 - LSTM
 
